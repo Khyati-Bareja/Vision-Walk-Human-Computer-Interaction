@@ -42,7 +42,7 @@ This repository contains the source code for the Vision Walk application.
     <a href="https://github.com/Khyati-Bareja/Vision Walk HCI"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="[https://github.com/Khyati-Bareja/Vision Walk HCI](https://www.youtube.com/watch?v=mFafPWAMyGI)">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=mFafPWAMyGI">View Demo</a>
     .
     <a href="https://github.com/Khyati-Bareja/Vision Walk HCI/issues">Report Bug</a>
     .
