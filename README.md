@@ -67,7 +67,7 @@ This repository contains the source code for the Vision Walk application.
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](images/321865964-d48c9116-773e-42d7-9bcb-211c94a05122.png)
 
 Vision Walk Description
 
