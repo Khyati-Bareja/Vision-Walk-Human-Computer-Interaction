@@ -153,7 +153,4 @@ Contributions are what make the open source community such an amazing place to b
 
 * **Khyati Bareja** - *Software Engineering Student@Concordia* - [Khyati Bareja](https://github.com/Khyati-Bareja/) - **
 
-## Acknowledgements
-
-* []()
   
